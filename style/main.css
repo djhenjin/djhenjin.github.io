@@ -248,6 +248,15 @@ hr {
   -webkit-transform: translate(0px, 363px);
   -moz-transform: translate(0px, 363px);
   transform: translate(0px, 363px); }
+.tile.tile-position-1-5 {
+  -webkit-transform: translate(0px, 484px);
+  -moz-transform: translate(0px, 484px);
+  transform: translate(0px, 484px); }
+.tile.tile-position-1-6 {
+  -webkit-transform: translate(0px, 685px);
+  -moz-transform: translate(0px, 685px);
+  transform: translate(0px, 685px); }
+  
 .tile.tile-position-2-1 {
   -webkit-transform: translate(121px, 0px);
   -moz-transform: translate(121px, 0px);
@@ -264,6 +273,8 @@ hr {
   -webkit-transform: translate(121px, 363px);
   -moz-transform: translate(121px, 363px);
   transform: translate(121px, 363px); }
+
+
 .tile.tile-position-3-1 {
   -webkit-transform: translate(242px, 0px);
   -moz-transform: translate(242px, 0px);
@@ -280,6 +291,8 @@ hr {
   -webkit-transform: translate(242px, 363px);
   -moz-transform: translate(242px, 363px);
   transform: translate(242px, 363px); }
+
+
 .tile.tile-position-4-1 {
   -webkit-transform: translate(363px, 0px);
   -moz-transform: translate(363px, 0px);
